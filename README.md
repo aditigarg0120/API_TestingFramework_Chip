@@ -30,6 +30,12 @@ Command line to generate it in two ways:
 1. mvn allure:serve: To open report in browser
 2. mvn allure:report: To generate project report at target/site/allure-maven-plugin folder
 
+Sample Report
+
+<img width="1427" alt="Screenshot 2021-05-10 at 00 42 22" src="https://user-images.githubusercontent.com/43905401/117590739-b184a300-b128-11eb-9be9-a2f0983eaeb0.png">
+
+<img width="1427" alt="Screenshot 2021-05-10 at 00 42 43" src="https://user-images.githubusercontent.com/43905401/117590747-b8abb100-b128-11eb-8caf-a874b7eea2f3.png">
+
 
 # Inside API Testing Framework Chip:
 src/test/java
