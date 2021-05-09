@@ -1,6 +1,6 @@
 # API_TestingFramework_Chip
 This Repository is related to testing API services in Rest ASSURED
-
+@Author- Aditi Garg
 
 # Required software
 Java JDK 11+
